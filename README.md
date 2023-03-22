@@ -13,4 +13,9 @@ The company wants to know:
 
 Also, determine the optimal value of lambda for ridge and lasso regression.
 
+# Conclusions
+
+1. GrLivArea, RoofMatl_WdShake & OverallQual are the top 3 predictors for Lasso Regualarization.
+2. OverallQual,Neighborhood_NWAmes & GrLivArea are the top 3 predictors for Ridge Regualarization.
+3. GrLivArea & OverallQual are top predictors in bothe the techniques.
  
